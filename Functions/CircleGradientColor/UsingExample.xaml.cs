@@ -1,5 +1,5 @@
 #region namespace
-using Windows.UI;
+using Windows.UI;//Colors
 #endregion
 
 #region code
