@@ -3,4 +3,4 @@
 ## Functons
 ### CircleGradientColor
 >实现的效果如下图所示  
->![image](https://github.com/SpiritJay/UWP_Demos/blob/main/Functions/CircleGradientColor/GradientPerformance.jpg)
+>![image](Functions/CircleGradientColor/GradientPerformance.jpg)
