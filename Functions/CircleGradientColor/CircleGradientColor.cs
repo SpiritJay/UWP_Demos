@@ -1,5 +1,5 @@
 #region namespace
-using Windows.UI;//Color
+using Windows.UI;//Colors
 using System.Reflection;//PropertyInfo
 using Windows.UI.Xaml.Media;//ImageBrush
 using Windows.UI.Xaml.Media.Imaging;//WriteableBitmap
