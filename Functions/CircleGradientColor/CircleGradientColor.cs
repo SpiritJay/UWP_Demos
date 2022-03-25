@@ -1,3 +1,11 @@
+#region namespace
+using Windows.UI;//Color
+using System.Reflection;//PropertyInfo
+using Windows.UI.Xaml.Media;//ImageBrush
+using Windows.UI.Xaml.Media.Imaging;//WriteableBitmap
+#endrefion
+
+#region code
 /// <summary>
 /// 适用于圆周渐变的颜色停止点
 /// </summary>
@@ -116,3 +124,4 @@ private void SetCircleGradientBrush(object obj, string propertyName, int angleOf
     data.CopyTo(writeableBitmap.PixelBuffer);
     propertyInfo.SetValue(obj, new ImageBrush { ImageSource = writeableBitmap });
 }
+#endregion
