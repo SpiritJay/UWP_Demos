@@ -1,8 +1,11 @@
 #region namespace
 using Windows.UI;//Colors
+using System.Linq;//List
 using System.Reflection;//PropertyInfo
+using System.Runtime.InteropServices.WindowsRuntime;//CopyTo()
 using Windows.UI.Xaml.Media;//ImageBrush
 using Windows.UI.Xaml.Media.Imaging;//WriteableBitmap
+using Windows.UI.Xaml.Shapes;//Shape
 #endrefion
 
 #region code
