@@ -1,3 +1,3 @@
-testPath.Data = SetSectorCylinderPathData(20, 100, 300);
+testPath.Data = SetSectorCylinderPathData(10, 100, 180);
 
-SetSectorCylinderPathData(testPath, 20, 100, 300);
+SetSectorCylinderPathData(testPath, 10, 100, 180);
