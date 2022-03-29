@@ -4,6 +4,9 @@
 ### CircleGradientColor
 >实现的效果如下图所示  
 >![image](Functions/CircleGradientColor/GradientPerformance.jpg)
+### SectorCylinder
+>实现的效果参照上图上半部分  
+>上图上半部分为上色后的效果，默认没颜色的时候是看不见的
 ## Controls
 ### CustomProgressRing
 >纠正了官方的ProgressRing在50%处不是半圆的问题  
